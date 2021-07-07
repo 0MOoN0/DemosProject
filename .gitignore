@@ -1,6 +1,12 @@
 /target/
 !.mvn/wrapper/maven-wrapper.jar
 
+.mvn/wrapper/
+# Package Files #
+*.jar
+*.war
+*.ear
+
 ### Eclipse ###
 local.properties
 .settings/
